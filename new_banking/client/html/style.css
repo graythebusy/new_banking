@@ -29,10 +29,11 @@ input:focus {
   src: url(media/font/Bariol_Regular.otf);
 }
 .container {
-  height: 55.557%;
-  width: 46.875%;
-  margin-top: 11.11075%;
-  margin-left: 26.5625%;
+  height: 600px;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 225px;
 }
 body {
   display: flex;

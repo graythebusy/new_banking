@@ -1,6 +1,6 @@
 Config = {}
 
-Config.Locale = 'tr'
+Config.Locale = 'en'
 
 Config.ShowBlips = true
 Config.OnlyBank = false

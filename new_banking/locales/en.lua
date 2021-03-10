@@ -1,14 +1,14 @@
 Locales['en'] = {
-    ['invalid_amount'] = 'Invalid Amount',
+    ['invalid_amount'] = 'Geçersiz miktar',
     ['atm_blip'] = 'ATM',
-    ['bank_blip'] = 'Bank',
-    ['atm_open'] = 'Press ~INPUT_PICKUP~ to access account ~b~',
-    ['no_money'] = 'You do not have enough money',
-    ['recieved1'] = 'You received money ',
-    ['recieved2'] = 'You received the sum of ',
-    ['recieved3'] = ' dollars',
-    ['removed1'] = 'Payment receipt ',
-    ['removed2'] = 'Your payment of ',
-    ['removed3'] = ' dollars is done',
-    ['bank_too_far'] = 'Too far from a bank or ATM'
+    ['bank_blip'] = 'Banka',
+    ['atm_open'] = 'Hesabına giriş yapmak için ~INPUT_PICKUP~ tuşuna basın.',
+    ['no_money'] = 'Yeterli miktarda paraya sahip değilsin.',
+    ['recieved1'] = 'Aldığın para ',
+    ['recieved2'] = 'Toplam aldığın para ',
+    ['recieved3'] = ' Dolar',
+    ['removed1'] = 'Ödeme Makbuzu ',
+    ['removed2'] = 'Ödemen ',
+    ['removed3'] = ' dolar gönderildi.',
+    ['bank_too_far'] = 'Bir banka veya ATM\'ye çok uzaksınız!'
 }
